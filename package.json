@@ -1,7 +1,7 @@
 {
     "name": "pacrunner-demo",
-    "version": "0.3.1",
-    "description": "A simple util helps testing PAC file",
+    "version": "0.4.0",
+    "description": "Demo for a simple util helps testing PAC file",
     "main": "dist/index.js",
     "private": true,
     "scripts": {
@@ -20,6 +20,6 @@
         "jest": "^24.9.0"
     },
     "dependencies": {
-        "pacrunner": "^0.3.1"
+        "pacrunner": "^0.4.0"
     }
 }
